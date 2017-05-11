@@ -129,3 +129,5 @@ plot(xs, ys, type='b', main='Ej 13',
      xlab='Cantidad de monedas de Juan (n)',
      ylab='Probabilidad de que Juan gane')
 dev.off()
+
+# Ej 14
